@@ -1,8 +1,6 @@
 # REPAIR: Resolving Long-Tail Confusion in Scientific Retrievers via Fact-Verified Iterative Refinement
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2513.REPAIR"><img src="https://img.shields.io/badge/arXiv-REPAIR-b31b1b.svg" alt="arXiv"></a>
-  <a href="https://github.com/yerimoh/REPAIR"><img src="https://img.shields.io/github/stars/yerimoh/REPAIR?style=social" alt="GitHub Stars"></a>
   <img src="https://img.shields.io/badge/Python-3.9%2B-blue" alt="Python">
   <img src="https://img.shields.io/badge/PyTorch-2.0%2B-orange" alt="PyTorch">
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
