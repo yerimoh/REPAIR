@@ -6,9 +6,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
-<p align="center">
-  <b>ACL 2025 Submission</b>
-</p>
+
 
 ---
 
