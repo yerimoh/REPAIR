@@ -109,6 +109,8 @@ REPAIR/
 
 ## Methodology
 
+![img/main.png](img/main.png)
+
 ### Retriever Formulation
 
 REPAIR uses a shared decoder-only LM backbone $M_\theta$ (Qwen2.5 at 500M / 1.5B / 7B) with EOS pooling:
