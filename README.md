@@ -12,7 +12,18 @@
 
 ## Overview
 
-**REPAIR** (**RE**triever via E**p**istemic **A**PI-Guided Ite**r**ative Refinement) is a self-evolving data augmentation framework for scientific dense retrievers. It iteratively synthesizes training data to address *long-tail concept confusion* and *high fact-sensitivity* — two structural properties that fundamentally distinguish scientific literature from general-domain text.
+**REPAIR** (**RE**triever via E**p**istemic **A**PI-Guided Ite**r**ative Refinement) is a self-evolving data augmentation framework for scientific dense retrievers. It iteratively synthesizes training data to address *long-tail concept confusion* and *high fact-sensitivity* , two structural properties that fundamentally distinguish scientific literature from general-domain text.
+
+**❓ Quick quiz **: BCL1 or BCL2? If you hesitated, congrats..
+you're performing at the level of a state-of-the-art scientific retriever 😅
+
+**📄 Title:**
+REPAIR: Resolving Long-Tail Confusion in Scientific Retrievers via Fact-Verified Iterative Refinement
+
+**✨ Findings:**
+1. Scientific retrievers don't fail because they're too small. 
+2. The retriever knows where it's weak. 
+3. In science, what matters most is fact-checking the long tail and actually training on it. 
 
 ### Key Ideas
 
