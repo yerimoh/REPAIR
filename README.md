@@ -319,7 +319,12 @@ PCT=20 bash run_repair.sh
 If you find REPAIR useful in your research, please cite:
 
 ```bibtex
-TBD
+@misc{oh2026repairresolvinglongtailconfusion,
+      title={REPAIR: Resolving Long-Tail Confusion in Scientific Retrievers via Fact-Verified Iterative Refinement},
+      author={Yerim Oh and Gunhee Kim},
+      year={2026},
+      booktitle={Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing},
+}
 ```
 
 ---
